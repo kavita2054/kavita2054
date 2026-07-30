@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Kavita Pal👋
 
-<!--
-**kavita2054/kavita2054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓BCA Graduate
+- 📊Aspiring Data Analyst
+- 🍀Currently learning SQL and Data Analytics
+- 💡Interested in Data Visualization and Machine Learning
+- 🎯Goal: To start my career as a Data Analyst
+
+## Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Machine Learning
+- Data Visualiztion
+
+## Projects
+
+1.Excel Dashboard
+2.Power BI Sales Dashboard
+3.Tableau Teen Mental Health Dashboard
+4.Python Telecom Customer Churn Prediction
+
+## Contact
+- Email:kavitapal2026@gmail.com
+- GitHub:https://github.com/kavita2054/kavita2054

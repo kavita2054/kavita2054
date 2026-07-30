@@ -20,11 +20,10 @@
 - Data Visualiztion
 
 ## Projects
-
-1.Excel Dashboard
-2.Power BI Sales Dashboard
-3.Tableau Teen Mental Health Dashboard
-4.Python Telecom Customer Churn Prediction
+- 1.Excel Dashboard
+- 2.Power BI Sales Dashboard
+- 3.Tableau Teen Mental Health Dashboard
+- 4.Python Telecom Customer Churn Prediction
 
 ## Contact
 - Email:kavitapal2026@gmail.com
